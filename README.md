@@ -1,2 +1,1 @@
-# ManimB
-In this repository, I create a manim layer.
+# ManimB\nCustom Manim layer for Axes and more.
